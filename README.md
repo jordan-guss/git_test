@@ -1,1 +1,1 @@
-# "This is Jordan Guss's first Git project!"
+# "This is my first Git project. Edited to show less enthusiasm."
